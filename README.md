@@ -1,4 +1,13 @@
-## <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=2500&pause=500&color=F7E587&width=435&lines=hi%2C+im+song;cybersecurity+student" />
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=7DE5F7&width=435&lines=hi%2C+im+song;red+team+operator;cybersecurity+researcher" />
+
+**About Me**
+* **Security Researcher**
+* **Red Team Operator**
+* **Passions:** Malware Dev, Wireless Network Security, CTFs
+
+**Development Tools**
+---
+[![My Skills](https://skillicons.dev/icons?i=arch,python,c,rust,bash,neovim,kali,windows)](https://skillicons.dev)
 
 <!--
 **song0x00/song0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
