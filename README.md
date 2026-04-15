@@ -1,4 +1,4 @@
-## <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=7DE5F7&width=435&lines=hi%2C+im+song;red+team+operator;cybersecurity+researcher](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=36E7F7&width=435&lines=hi%2C+im+song;security+researcher;network+vulnerability+research;offensive+tooling+%26+red+team)" />
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=36E7F7&width=435&lines=hi%2C+im+song;security+researcher;network+vulnerability+research;offensive+tooling+%26+red+team" />
 
 *security researcher focused on offensive security, red teaming and wireless protocol vulnerability research.*
 *currently learning rust, building up my homelab, whilst working through the HTB CPTS.*
