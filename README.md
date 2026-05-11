@@ -5,7 +5,7 @@
 
 *Development Tools*
 ---
-[![My Skills](https://skillicons.dev/icons?i=arch,nix,python,c,rust,bash,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix,arch,python,rust,c,bash,neovim)](https://skillicons.dev)
 
 <!--
 **song0x00/song0x00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
